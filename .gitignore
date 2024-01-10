@@ -39,5 +39,7 @@ luac.out
 *.x86_64
 *.hex
 
-# Editor files
+# Editor and addon files
 .vscode
+release.json
+tooltip.png

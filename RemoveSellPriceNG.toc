@@ -4,6 +4,6 @@
 ## Notes: Removes the vendor price from the default item tooltips.
 ## Version: 1.0.0.0
 
-## X-Curse-Project-ID: TBD
+## X-Curse-Project-ID: 960517
 
 RemoveSellPriceNG.lua

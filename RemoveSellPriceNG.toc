@@ -1,0 +1,9 @@
+## Interface: 100200
+## Title: Remove Sell Price NG
+## Author: nezorflame
+## Notes: Removes the vendor price from the default item tooltips.
+## Version: 1.0.0.0
+
+## X-Curse-Project-ID: TBD
+
+RemoveSellPriceNG.lua

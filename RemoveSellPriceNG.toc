@@ -1,4 +1,4 @@
-## Interface: 120000
+## Interface: 120001
 ## Title: Remove Sell Price NG
 ## Author: nezorflame
 ## Notes: Removes the vendor price from the default item tooltips.
